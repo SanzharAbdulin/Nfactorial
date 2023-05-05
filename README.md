@@ -8,4 +8,4 @@ Program asks user to input first letter
 
 "Please provide first letter of name"
 
-After user inputting, program print a newly generated name 
+After user inputting, program prints a newly generated name 
