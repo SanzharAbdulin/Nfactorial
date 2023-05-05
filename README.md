@@ -1,2 +1,2 @@
-# Nfactorial
+# nFactorial
 Assesment task
